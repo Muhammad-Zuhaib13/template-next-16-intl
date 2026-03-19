@@ -2,7 +2,7 @@
 
 
 ```bash
-=======
+
 # 🌐 template-next-16-intl
 
 A modern Next.js 16.1.0 starter template with production-ready internationalization (i18n) setup. Built with next-intl, Tailwind CSS, and full RTL support for Arabic.
