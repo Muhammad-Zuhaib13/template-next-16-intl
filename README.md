@@ -1,6 +1,5 @@
 ## Getting Started
 
-First, run the development server:
 
 ```bash
 =======
@@ -84,6 +83,9 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+Check out the demo of the project at the URL below:
 
 [![Vercel Deployment](https://img.shields.io/badge/vercel-deployed-black?style=for-the-badge&logo=vercel)](https://template-next-16-intl.vercel.app/en)
 
