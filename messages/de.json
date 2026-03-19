@@ -1,0 +1,147 @@
+{
+  "HomePage": {
+    "title": "Hallo, Welt!",
+    "subtitle": "Willkommen in meiner Next.js App",
+    "hero": {
+      "title": "Erstellen Sie Erstaunliche Web-Apps",
+      "description": "Erstellen Sie moderne, schnelle und skalierbare Webanwendungen mit Next.js und Tailwind CSS",
+      "cta": {
+        "primary": "Loslegen",
+        "secondary": "Mehr Erfahren"
+      }
+    },
+    "features": {
+      "title": "Warum Uns Wählen",
+      "subtitle": "Entdecken Sie die Kraft der modernen Webentwicklung",
+      "items": {
+        "fast": {
+          "title": "Blitzschnell",
+          "description": "Optimierte Leistung mit automatischem Code-Splitting und Server-seitigem Rendering"
+        },
+        "responsive": {
+          "title": "Voll Responsiv",
+          "description": "Schöne Designs, die auf allen Geräten und Bildschirmgrößen perfekt funktionieren"
+        },
+        "secure": {
+          "title": "Standardmäßig Sicher",
+          "description": "Integrierte Sicherheitsfunktionen zum Schutz Ihrer Anwendung und Benutzerdaten"
+        },
+        "scalable": {
+          "title": "Einfach Skalierbar",
+          "description": "Wachsen Sie Ihre Anwendung vom Prototypen bis zum Unternehmen mit Leichtigkeit"
+        }
+      }
+    },
+    "stats": {
+      "title": "Von Entwicklern Weltweit Vertraut",
+      "items": {
+        "users": {
+          "value": "10K+",
+          "label": "Zufriedene Nutzer"
+        },
+        "projects": {
+          "value": "5K+",
+          "label": "Erstellte Projekte"
+        },
+        "countries": {
+          "value": "50+",
+          "label": "Länder"
+        },
+        "support": {
+          "value": "24/7",
+          "label": "Support Verfügbar"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "Was Unsere Nutzer Sagen",
+      "subtitle": "Schließen Sie sich Tausenden zufriedener Entwickler an",
+      "items": [
+        {
+          "name": "John Doe",
+          "role": "Senior-Entwickler",
+          "company": "Tech Corp",
+          "content": "Diese Vorlage hat mir Stunden Arbeit erspart. Der Code ist sauber, gut organisiert und einfach anzupassen.",
+          "avatar": "👨‍💻"
+        },
+        {
+          "name": "Jane Smith",
+          "role": "Startup-Gründerin",
+          "company": "Innovate Labs",
+          "content": "Die beste Next.js-Vorlage, die ich je verwendet habe. Die Internationalisierungsunterstützung ist fantastisch!",
+          "avatar": "👩‍💻"
+        },
+        {
+          "name": "Ahmed Hassan",
+          "role": "Freiberufler",
+          "company": "Digital Solutions",
+          "content": "Perfekt für mehrsprachige Projekte. Die RTL-Unterstützung für Arabisch funktioniert einwandfrei.",
+          "avatar": "👨‍💻"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bereit Loszulegen?",
+      "description": "Schließen Sie sich Tausenden von Entwicklern an, die bereits erstaunliche Anwendungen erstellen",
+      "button": "Jetzt Entwickeln"
+    }
+  },
+  "AboutPage": {
+    "title": "Über Uns",
+    "subtitle": "Erfahren Sie mehr über unser Unternehmen",
+    "mission": "Unsere Mission",
+    "missionText": "Erstaunliche Weberfahrungen zu schaffen, die Menschen weltweit verbinden.",
+    "vision": "Unsere Vision",
+    "visionText": "Die führende Plattform für innovative Webentwicklungslösungen zu sein.",
+    "team": "Unser Team",
+    "teamDescription": "Wir sind eine leidenschaftliche Gruppe von Entwicklern, Designern und Kreativen, die gemeinsam etwas Großartiges aufbauen.",
+    "values": {
+      "innovation": "Innovation",
+      "innovationDesc": "Grenzen überschreiten und neue Möglichkeiten erkunden",
+      "quality": "Qualität",
+      "qualityDesc": "Exzellenz in allem, was wir tun",
+      "community": "Gemeinschaft",
+      "communityDesc": "Gemeinsam aufbauen und uns gegenseitig unterstützen"
+    }
+  },
+  "ContactPage": {
+    "title": "Kontaktiere Uns",
+    "subtitle": "Nehmen Sie Kontakt mit unserem Team auf",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "subject": "Betreff",
+      "message": "Ihre Nachricht",
+      "send": "Nachricht Senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht erfolgreich gesendet!",
+      "error": "Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    },
+    "info": {
+      "address": "Büroanschrift",
+      "addressLine": "Tech-Straße 123, Silicon Valley, CA 94025",
+      "phone": "Telefonnummer",
+      "phoneNumber": "+1 (555) 123-4567",
+      "email": "E-Mail",
+      "emailAddress": "hallo@nextapp.com",
+      "hours": "Geschäftszeiten",
+      "hoursDetail": "Montag - Freitag: 9:00 - 18:00 Uhr"
+    },
+    "social": {
+      "title": "Folgen Sie Uns",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    }
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "contact": "Kontakt"
+  },
+  "Common": {
+    "loading": "Lädt...",
+    "error": "Etwas ist schief gelaufen",
+    "backToHome": "Zurück zur Startseite"
+  }
+}

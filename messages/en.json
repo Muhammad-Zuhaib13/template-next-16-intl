@@ -1,0 +1,147 @@
+{
+ "HomePage": {
+    "title": "Hello, world!",
+    "subtitle": "Welcome to my Next.js app",
+    "hero": {
+      "title": "Build Amazing Web Apps",
+      "description": "Create modern, fast, and scalable web applications with Next.js and Tailwind CSS",
+      "cta": {
+        "primary": "Get Started",
+        "secondary": "Learn More"
+      }
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "subtitle": "Discover the power of modern web development",
+      "items": {
+        "fast": {
+          "title": "Lightning Fast",
+          "description": "Optimized performance with automatic code splitting and server-side rendering"
+        },
+        "responsive": {
+          "title": "Fully Responsive",
+          "description": "Beautiful designs that work perfectly on all devices and screen sizes"
+        },
+        "secure": {
+          "title": "Secure by Default",
+          "description": "Built-in security features to protect your application and user data"
+        },
+        "scalable": {
+          "title": "Easily Scalable",
+          "description": "Grow your application from prototype to enterprise with ease"
+        }
+      }
+    },
+    "stats": {
+      "title": "Trusted by Developers Worldwide",
+      "items": {
+        "users": {
+          "value": "10K+",
+          "label": "Happy Users"
+        },
+        "projects": {
+          "value": "5K+",
+          "label": "Projects Built"
+        },
+        "countries": {
+          "value": "50+",
+          "label": "Countries"
+        },
+        "support": {
+          "value": "24/7",
+          "label": "Support Available"
+        }
+      }
+    },
+    "testimonials": {
+      "title": "What Our Users Say",
+      "subtitle": "Join thousands of satisfied developers",
+      "items": [
+        {
+          "name": "John Doe",
+          "role": "Senior Developer",
+          "company": "Tech Corp",
+          "content": "This template saved me hours of work. The code is clean, well-organized, and easy to customize.",
+          "avatar": "👨‍💻"
+        },
+        {
+          "name": "Jane Smith",
+          "role": "Startup Founder",
+          "company": "Innovate Labs",
+          "content": "The best Next.js template I've ever used. Internationalization support is fantastic!",
+          "avatar": "👩‍💻"
+        },
+        {
+          "name": "Ahmed Hassan",
+          "role": "Freelancer",
+          "company": "Digital Solutions",
+          "content": "Perfect for multilingual projects. The RTL support for Arabic works flawlessly.",
+          "avatar": "👨‍💻"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Join thousands of developers who are already building amazing applications",
+      "button": "Start Building Now"
+    }
+  },
+  "AboutPage": {
+    "title": "About Us",
+    "subtitle": "Learn more about our company",
+    "mission": "Our Mission",
+    "missionText": "To create amazing web experiences that connect people across the globe.",
+    "vision": "Our Vision",
+    "visionText": "To be the leading platform for innovative web development solutions.",
+    "team": "Our Team",
+    "teamDescription": "We are a passionate group of developers, designers, and creatives working together to build something great.",
+    "values": {
+      "innovation": "Innovation",
+      "innovationDesc": "Pushing boundaries and exploring new possibilities",
+      "quality": "Quality",
+      "qualityDesc": "Delivering excellence in everything we do",
+      "community": "Community",
+      "communityDesc": "Building together and supporting each other"
+    }
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "info": {
+      "address": "Office Address",
+      "addressLine": "123 Tech Street, Silicon Valley, CA 94025",
+      "phone": "Phone Number",
+      "phoneNumber": "+1 (555) 123-4567",
+      "email": "Email",
+      "emailAddress": "hello@nextapp.com",
+      "hours": "Business Hours",
+      "hoursDetail": "Monday - Friday: 9:00 AM - 6:00 PM"
+    },
+    "social": {
+      "title": "Follow Us",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    }
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "backToHome": "Back to Home"
+  }
+}
