@@ -71,7 +71,7 @@ pnpm install
 
 ### Run the development server:
 
->>>>>>> 6d4cf3d5ccd4e0cea9a5e7685c407ef1a7216a3d
+
 npm run dev
 # or
 yarn dev
