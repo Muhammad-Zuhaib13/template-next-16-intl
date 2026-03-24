@@ -60,7 +60,7 @@ A modern Next.js 16.1.0 starter template with production-ready internationalizat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/template-next-16-intl.git
+git clone https://github.com/Muhammad-Zuhaib13/template-next-16-intl.git
 cd template-next-16-intl
 
 npm install
